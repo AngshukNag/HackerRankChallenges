@@ -5,11 +5,11 @@ times and print the resultant matrix. Rotation should be in anti-clockwise direc
 
 Example:-
 
-Start           
- 1 2 3 4 
- 12 1 2 5 
- 11 4 3 6 
- 10 9 8 7
+Start
+1 2 3 4
+12 1 2 5
+11 4 3 6
+10 9 8 7
 
   First
 2  3  4  5
