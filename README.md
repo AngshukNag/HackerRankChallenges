@@ -9,3 +9,6 @@ Start &emsp; &emsp; First &emsp; &emsp; Second <br>
 12 1 2 5 ->&emsp;1 2 3 6 ->&emsp;2 3 4 7 <br> 
 11 4 3 6&emsp; &emsp;12 1 4 7&emsp; &emsp;1 2 1 8 <br>
 10 9 8 7 &emsp;&emsp;11 10 9 8&emsp;&emsp;12 11 10  9 <br>
+
+In source code ./HackerRankChallenges/MatrixLayerRotation/MatrixLayerRotation.swift file
+Enter the matrix of m x n dimension and the number of rotations r to the method "matrixRotation(matrix: [[Int]], r: Int)"
