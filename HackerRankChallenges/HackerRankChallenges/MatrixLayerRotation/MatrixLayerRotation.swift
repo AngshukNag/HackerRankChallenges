@@ -8,6 +8,9 @@
 
 import Foundation
 
+/// Entry method for the algorithm. This method takes in the matrix of m x n dimension and the number of rotations and prints back the resultant matrix
+/// - Parameter matrix: A matrix of m x n dimension
+/// - Parameter r: Integer indicating the number of times the user wants to rotate the matrix
 func matrixRotation(matrix: [[Int]], r: Int) -> Void {
     var inputMatrix = matrix
         var rowCount = matrix.count
